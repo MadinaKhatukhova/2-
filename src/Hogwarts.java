@@ -1,3 +1,4 @@
+
 public abstract class Hogwarts {
 
     private final int magicPower;

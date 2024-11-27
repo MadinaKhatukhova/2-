@@ -1,3 +1,4 @@
+
 public class Hufflepuff extends Hogwarts {
 
     private int industriousness;

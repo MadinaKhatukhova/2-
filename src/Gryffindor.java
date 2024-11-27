@@ -1,3 +1,4 @@
+
 public class Gryffindor extends Hogwarts {
 
     private final int nobility;
