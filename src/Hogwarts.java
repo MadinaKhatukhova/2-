@@ -50,7 +50,6 @@ public abstract class Hogwarts {
 
     public abstract void compareStudents(Slytherin student);
 
-
     public boolean castSpell() {
         return false;
     }

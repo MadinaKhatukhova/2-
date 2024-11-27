@@ -27,7 +27,6 @@ public class Ravenclaw extends Hogwarts {
 
     @Override
     public void compareStudents(Hufflepuff student) {
-
     }
 
 

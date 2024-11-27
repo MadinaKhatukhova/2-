@@ -50,7 +50,6 @@ public class Hufflepuff extends Hogwarts {
     }
 
 
-
     public int getIndustriousness() {return industriousness; }
 
     public int getLoyalty() {return loyalty; }
