@@ -39,7 +39,6 @@ public class Slytherin extends Hogwarts {
     public void compareStudentRavenclaw(Ravenclaw student) {
 
     }
-
     @Override
     public void compareStudents(Slytherin student) {
         if (this.getCunning() + this.getAmbition() + this.getDeterminaton() + this.getLustForPower() +

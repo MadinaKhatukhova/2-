@@ -48,7 +48,6 @@ public class Hufflepuff extends Hogwarts {
             System.out.println("Пуффендуйцы " + this.getName() + " равносильные " + student.getName());
         }
     }
-
     public int getIndustriousness() {return industriousness; }
 
     public int getLoyalty() {return loyalty; }

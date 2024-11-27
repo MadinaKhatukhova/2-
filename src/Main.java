@@ -41,7 +41,6 @@ public class Main {
         Hogwarts[] hogwartsStudents = new Hogwarts[]{harryPoter, draco, hermioneGrander};
         for (Hogwarts student : hogwartsStudents) {
             System.out.println(student.castSpell());
-
         }
     }
 }
