@@ -42,4 +42,19 @@ public class Gryffindor extends Hogwarts {
             System.out.println("Гриффендорцы " + this.getName() + " и " + student.getName() + " одинаково сильны");
         }
     }
+
+    @Override
+    public void compareStudents(Hufflepuff student) {
+
+    }
+
+    @Override
+    public void compareStudentRavenclaw(Ravenclaw student) {
+
+    }
+
+    @Override
+    public void compareStudents(Slytherin student) {
+
+    }
 }

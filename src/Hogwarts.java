@@ -43,4 +43,15 @@ public abstract class Hogwarts {
     }
 
     public abstract void compareStudents(Gryffindor student);
+
+    public abstract void compareStudents(Hufflepuff student);
+
+    public abstract void compareStudentRavenclaw(Ravenclaw student);
+
+    public abstract void compareStudents(Slytherin student);
+
+
+    public boolean castSpell() {
+        return false;
+    }
 }

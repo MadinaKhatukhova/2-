@@ -21,6 +21,18 @@ public class Ravenclaw extends Hogwarts {
     }
 
     @Override
+    public void compareStudents(Gryffindor student) {
+
+    }
+
+    @Override
+    public void compareStudents(Hufflepuff student) {
+
+    }
+
+
+
+    @Override
     public void compareStudentRavenclaw(Ravenclaw student) {
         if (this.getMind() + this.getCreation() + this.getWit() + this.getWisdom() >
                 student.getMind() + student.getCreation() + student.getWit() + student.getWisdom()) {
@@ -33,6 +45,23 @@ public class Ravenclaw extends Hogwarts {
             System.out.println("Когтевранец " + this.getName() + " равносильный " + student.getName());
 
         }
+    }
+
+    @Override
+    public void compareStudents(Slytherin student) {
+
+    }
+
+    private int getCreation() {
+        return 0;
+    }
+
+    private int getWit() {
+        return 0;
+    }
+
+    private int getWisdom() {
+        return 0;
     }
 
     public int getMind() {
