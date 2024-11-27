@@ -46,10 +46,8 @@ public class Gryffindor extends Hogwarts {
     @Override
     public void compareStudents(Hufflepuff student) {
     }
-
     @Override
     public void compareStudentRavenclaw(Ravenclaw student) {
-
     }
 
     @Override

@@ -53,4 +53,5 @@ public abstract class Hogwarts {
     public boolean castSpell() {
         return false;
     }
+
 }

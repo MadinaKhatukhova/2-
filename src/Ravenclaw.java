@@ -30,7 +30,6 @@ public class Ravenclaw extends Hogwarts {
     }
 
 
-
     @Override
     public void compareStudentRavenclaw(Ravenclaw student) {
         if (this.getMind() + this.getCreation() + this.getWit() + this.getWisdom() >
