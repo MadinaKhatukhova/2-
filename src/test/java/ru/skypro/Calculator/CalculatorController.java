@@ -1,6 +1,4 @@
 package ru.skypro.Calculator;
-
-
 public class CalculatorController {
 
     private final CalculatorService calculatorService;
@@ -31,7 +29,6 @@ public class CalculatorController {
         int result = calculatorService.multiply(num1, num2);
         return generateMessage(num1, num2, '*', result);
     }
-
 
 
     public String divideNumbers( Integer num1, Integer num2) {
